@@ -51,24 +51,27 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 plugins:
   - search
   - tags
   - blog
+  - mermaid2
 
 nav:
   - index.md
   - Blog:
     - blog/index.md
-    - newdoc.md
-    - abs.md
   - Code:
-    - coding/my-sfml-app.md
+    - coding/hello-world.md
   - About:
     - about/about.md
-    - child: about/child.md
+    - Школа: about/school.md
   - Tags:
     - tags.md
 

@@ -4,22 +4,22 @@ tags:
 ---
 
 
-# Welcome to MkDocs
+# Hi there
 
-Делаю изменение
+![image](assets/background.jpg)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Привет, меня зовут Мориков Алексей, я занимаюсь математикой и программированием,
+планирую взяться за какие-нибудь смежные дисциплины.
 
-## Commands
+Например, меня интересует создание каких-нибудь симуляций или движков. Потому
+ещё в 2024 захотел сделать движок рейтрейсинга, для создания сцен. А сейчас, в 2026
+имею желание сделать проект по биоинформатике.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Собственно говоря, сюда буду и выкладывать некоторую отчетность по проектам.
 
-## Project layout
+В разделе About/ можно подробнее узнать кто я такой.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Внутри Blog/ есть мои посты, где я чем-то делюсь по жизни.
+
+А внутри Code/ будут собраны какие-то фишки про мои ЯП.
+
