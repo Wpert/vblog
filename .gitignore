@@ -1,4 +1,5 @@
 venv/
 build/
 .mkdocs.yml.swp
+README.md
 
